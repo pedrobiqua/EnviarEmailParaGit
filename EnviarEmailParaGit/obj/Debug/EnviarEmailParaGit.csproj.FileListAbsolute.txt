@@ -1,0 +1,7 @@
+C:\Users\pedro\source\repos\EnviarEmailParaGit\EnviarEmailParaGit\bin\Debug\EnviarEmailParaGit.exe.config
+C:\Users\pedro\source\repos\EnviarEmailParaGit\EnviarEmailParaGit\bin\Debug\EnviarEmailParaGit.exe
+C:\Users\pedro\source\repos\EnviarEmailParaGit\EnviarEmailParaGit\bin\Debug\EnviarEmailParaGit.pdb
+C:\Users\pedro\source\repos\EnviarEmailParaGit\EnviarEmailParaGit\obj\Debug\EnviarEmailParaGit.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\EnviarEmailParaGit\EnviarEmailParaGit\obj\Debug\EnviarEmailParaGit.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\EnviarEmailParaGit\EnviarEmailParaGit\obj\Debug\EnviarEmailParaGit.exe
+C:\Users\pedro\source\repos\EnviarEmailParaGit\EnviarEmailParaGit\obj\Debug\EnviarEmailParaGit.pdb
